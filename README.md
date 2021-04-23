@@ -25,9 +25,9 @@ Nowadays, telecommunication industries are extremely saturated, and service prov
 3. **DMP Final Project - Step 2_Get Tweets.ipynb**
 4. **DMP Final Project - Step 3_Assign Tweets to Original Data.ipynb**
 5. **DMP Final Project - Step 4_Model Run with Augmented Data.ipynb**
-6. **WA_Fn-UseC_-Telco-Customer-Churn.csv** the original dataset
-7. **TweetSentiment.csv** tweeter sentiment data used in tweet sentiment analysis
-8. **telco_with_polarity.csv** the revised telco dataset where an additional column of tweet polarity is added to the original dataset
+6. **WA_Fn-UseC_-Telco-Customer-Churn.csv**: the original dataset
+7. **TweetSentiment.csv**: tweeter sentiment data used in tweet sentiment analysis
+8. **telco_with_polarity.csv**: the revised telco dataset where an additional column of tweet polarity is added to the original dataset
 
 ## Result:
 1. Detected feature collinearity using pariwise correlation plots and conducted outlier analysis
@@ -35,7 +35,7 @@ Nowadays, telecommunication industries are extremely saturated, and service prov
 3. Applied logistic regression, KNN, SVM, decision tree, and random forest ML models and used grid search for hyper-parameter tuning
 4. Achieved 80% accuracy score with 0.63 F1 score for Churn (9% improvement) and 0.85 F1 score for Not Churn using logistic regression
 5. Proposed 4 business strategies based on analysis of key factors extracted from feature importance charts:
-  - Offer Long-Term Contracts if Possible
-  - Provide Discounts and Incentives to High-Risk Customers
-  - Be Proactive and Responsive to Customer’s Complains and Questions on Social Platforms
-  - Invest in Innovation and Create Competitive Advantages Over Others
+    - Offer Long-Term Contracts if Possible
+    - Provide Discounts and Incentives to High-Risk Customers
+    - Be Proactive and Responsive to Customer’s Complains and Questions on Social Platforms
+    - Invest in Innovation and Create Competitive Advantages Over Others
