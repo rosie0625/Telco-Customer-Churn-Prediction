@@ -16,7 +16,7 @@ Nowadays, telecommunication industries are extremely saturated, and service prov
 3. Provide specific business strategies that are easy to implement, from both a short-term and long-term perspective
 
 ## Tools used:
-- EDA, Modeling: Python
+- EDA, Modeling: Python Jupyter Notebook
 - Presentation: Microsoft Powerpoint
 
 ## Files explained:
