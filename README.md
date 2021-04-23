@@ -20,12 +20,14 @@ Nowadays, telecommunication industries are extremely saturated, and service prov
 - Presentation: Microsoft Powerpoint
 
 ## Files explained:
-- Cleaned data file: **LoanStats_2020Q2_cleaned.csv**
-- EER Model: **model7.0.mwb**
-- EER Model Diagram Screenshot: **Final Project EER DIagram.png**
-- SQL queries: two sql files within **sql codes** folder
-- Tableau Dashboard: **FinalProjectTableau.twbx** (more detailed raw dashboard files: 5cAnalysis_Tableau.twbx, BorrowerRiskProfiling_Tableau.twbx)
-- Final Presentation PPT: **DEP Final Presentation.pdf**
+1. **DMP Final Project - Step 1A_LabelEncoder Experiment.ipynb**
+2. **DMP Final Project - Step 1B_GetDummies Experiment.ipynb**
+3. **DMP Final Project - Step 2_Get Tweets.ipynb**
+4. **DMP Final Project - Step 3_Assign Tweets to Original Data.ipynb**
+5. **DMP Final Project - Step 4_Model Run with Augmented Data.ipynb**
+6. **WA_Fn-UseC_-Telco-Customer-Churn.csv** the original dataset
+7. **TweetSentiment.csv** tweeter sentiment data used in tweet sentiment analysis
+8. **telco_with_polarity.csv** the revised telco dataset where an additional column of tweet polarity is added to the original dataset
 
 ## Result:
 1. Detected feature collinearity using pariwise correlation plots and conducted outlier analysis
